@@ -4,7 +4,7 @@ import time
 import asyncio
 import os
 from datetime import datetime
-form aiohttp import webbrowser
+from aiohttp import webbrowser
 
 logging.basicConfig(level=logging.INFO)
 
